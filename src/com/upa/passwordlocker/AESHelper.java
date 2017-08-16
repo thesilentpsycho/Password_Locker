@@ -9,7 +9,7 @@ import javax.crypto.spec.SecretKeySpec;
 
 public class AESHelper {
 	
-		private static String seed="r52h7T3s0791wyio";
+		private static String seed="p52h7T3s0791wyio";
 		
         public static String encrypt(String cleartext) throws Exception {
                 byte[] rawKey = getRawKey(seed.getBytes());
