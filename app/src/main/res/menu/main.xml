@@ -1,0 +1,28 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+<item 
+    	android:title=""
+        android:id="@+id/more"
+        android:showAsAction="always"
+        android:icon="@drawable/ic_action_overflow">
+		<menu >
+		    <item android:id="@+id/addEntry"
+		        android:title="Add Entry"
+		        android:icon="@drawable/add_1_icon"
+		        android:showAsAction="never" />		
+		    
+		    <item android:id="@+id/changePin"
+		        android:title="Change PIN"
+		        android:icon="@drawable/modify_key"
+		        android:showAsAction="never" />
+		    
+		    <item android:id="@+id/about"
+		        android:title="About"
+		        android:icon="@drawable/actions_help_about_icon"
+		        android:showAsAction="never" />  
+		    <item android:id="@+id/rate"
+		        android:icon="@drawable/action_rate"
+		        android:title="Rate"
+		        android:showAsAction="never" />  
+		</menu>
+</item>
+</menu>

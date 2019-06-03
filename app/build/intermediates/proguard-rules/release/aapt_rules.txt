@@ -1,0 +1,16 @@
+# Referenced at /Users/prateekbhuwania/StudioProjects/Password_Locker/app/build/intermediates/merged_manifests/release/AndroidManifest.xml:12
+-keep class android.support.v4.app.CoreComponentFactory { <init>(); }
+# Referenced at /Users/prateekbhuwania/StudioProjects/Password_Locker/app/build/intermediates/merged_manifests/release/AndroidManifest.xml:60
+-keep class com.upa.passwordlocker.ChangePinActivity { <init>(); }
+# Referenced at /Users/prateekbhuwania/StudioProjects/Password_Locker/app/build/intermediates/merged_manifests/release/AndroidManifest.xml:40
+-keep class com.upa.passwordlocker.MainActivity { <init>(); }
+# Referenced at /Users/prateekbhuwania/StudioProjects/Password_Locker/app/build/intermediates/merged_manifests/release/AndroidManifest.xml:79
+-keep class com.upa.passwordlocker.about { <init>(); }
+# Referenced at /Users/prateekbhuwania/StudioProjects/Password_Locker/app/build/intermediates/merged_manifests/release/AndroidManifest.xml:28
+-keep class com.upa.passwordlocker.password_activity { <init>(); }
+# Referenced at /Users/prateekbhuwania/StudioProjects/Password_Locker/app/build/intermediates/merged_manifests/release/AndroidManifest.xml:18
+-keep class com.upa.passwordlocker.password_activity_choose { <init>(); }
+# Referenced at /Users/prateekbhuwania/StudioProjects/Password_Locker/app/build/intermediates/merged_manifests/release/AndroidManifest.xml:69
+-keep class com.upa.passwordlocker.question_activity { <init>(); }
+# Referenced at /Users/prateekbhuwania/StudioProjects/Password_Locker/app/build/intermediates/merged_manifests/release/AndroidManifest.xml:51
+-keep class com.upa.passwordlocker.sqlView { <init>(); }

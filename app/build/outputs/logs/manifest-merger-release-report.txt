@@ -1,0 +1,226 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/prateekbhuwania/StudioProjects/Password_Locker/app/src/main/AndroidManifest.xml:2:1-81:12
+INJECTED from /Users/prateekbhuwania/StudioProjects/Password_Locker/app/src/main/AndroidManifest.xml:2:1-81:12
+INJECTED from /Users/prateekbhuwania/StudioProjects/Password_Locker/app/src/main/AndroidManifest.xml:2:1-81:12
+INJECTED from /Users/prateekbhuwania/StudioProjects/Password_Locker/app/src/main/AndroidManifest.xml:2:1-81:12
+MERGED from [com.android.support:support-v4:28.0.0] /Users/prateekbhuwania/.gradle/caches/transforms-2/files-2.1/7fad2584de1eef13dee8e54663ec7f0f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/prateekbhuwania/.gradle/caches/transforms-2/files-2.1/b6c17792add4f13d7f12458d78b164f8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/prateekbhuwania/.gradle/caches/transforms-2/files-2.1/5a81dbd51c7687d2e2b4f3bf85e3e43b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/prateekbhuwania/.gradle/caches/transforms-2/files-2.1/eaf050a4ed063467609ced0b28a705f7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/prateekbhuwania/.gradle/caches/transforms-2/files-2.1/f12120006d5eaee044b268a3d5e6350e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/prateekbhuwania/.gradle/caches/transforms-2/files-2.1/8d73e5f9abd32d3329d1671f3399d465/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/prateekbhuwania/.gradle/caches/transforms-2/files-2.1/827e2473e09fe28da8ae2ae78227da6d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/prateekbhuwania/.gradle/caches/transforms-2/files-2.1/c5ad2e6018daa72707a2938f4bd703f4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/prateekbhuwania/.gradle/caches/transforms-2/files-2.1/e6c4f08ef8b0ff349dc68cad4d9ca2a4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/prateekbhuwania/.gradle/caches/transforms-2/files-2.1/1972a7df79b80746a9b9df1689faeb95/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/prateekbhuwania/.gradle/caches/transforms-2/files-2.1/02c39c4066488d730d207597939fc474/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/prateekbhuwania/.gradle/caches/transforms-2/files-2.1/b11dca7b6baae95bed64a8d74c3f6ba3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/prateekbhuwania/.gradle/caches/transforms-2/files-2.1/ab934c7e82086f8f1176bf714f8d53e7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/prateekbhuwania/.gradle/caches/transforms-2/files-2.1/4adbab3fbdb25f610b0e72290764ec14/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/prateekbhuwania/.gradle/caches/transforms-2/files-2.1/f38c56bd711080e89cd8cd52d97c76a9/AndroidManifest.xml:17:1-25:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/prateekbhuwania/.gradle/caches/transforms-2/files-2.1/4b3e582c40708da422695ba001f132bb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/prateekbhuwania/.gradle/caches/transforms-2/files-2.1/6969c3f132285373a985bef784953ceb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/prateekbhuwania/.gradle/caches/transforms-2/files-2.1/4fc60f5665cd6f4d327af65779d342c2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/prateekbhuwania/.gradle/caches/transforms-2/files-2.1/c8e2a726b068dda9480b0467110972cf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/prateekbhuwania/.gradle/caches/transforms-2/files-2.1/b0ff2b5871abfde7df0ae0eaffb6fe8b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/prateekbhuwania/.gradle/caches/transforms-2/files-2.1/0a5e418e6a9be948b82f4bbdecba4581/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/prateekbhuwania/.gradle/caches/transforms-2/files-2.1/5aa8702c5b9e5c1c12da15ebc1b172ca/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/prateekbhuwania/.gradle/caches/transforms-2/files-2.1/6d3210cafcacbd672dee1227577c438e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/prateekbhuwania/.gradle/caches/transforms-2/files-2.1/d06d51695891f801737bdb2b6bfa16f2/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/prateekbhuwania/.gradle/caches/transforms-2/files-2.1/4d40270780b40282ce7a0838b316891c/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/prateekbhuwania/StudioProjects/Password_Locker/app/src/main/AndroidManifest.xml:2:1-81:12
+INJECTED from /Users/prateekbhuwania/StudioProjects/Password_Locker/app/src/main/AndroidManifest.xml:2:1-81:12
+INJECTED from /Users/prateekbhuwania/StudioProjects/Password_Locker/app/src/main/AndroidManifest.xml:2:1-81:12
+	package
+		ADDED from /Users/prateekbhuwania/StudioProjects/Password_Locker/app/src/main/AndroidManifest.xml:3:5-37
+		INJECTED from /Users/prateekbhuwania/StudioProjects/Password_Locker/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/prateekbhuwania/StudioProjects/Password_Locker/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/prateekbhuwania/StudioProjects/Password_Locker/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/prateekbhuwania/StudioProjects/Password_Locker/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/prateekbhuwania/StudioProjects/Password_Locker/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/prateekbhuwania/StudioProjects/Password_Locker/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/prateekbhuwania/StudioProjects/Password_Locker/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/prateekbhuwania/StudioProjects/Password_Locker/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/prateekbhuwania/StudioProjects/Password_Locker/app/src/main/AndroidManifest.xml
+application
+ADDED from /Users/prateekbhuwania/StudioProjects/Password_Locker/app/src/main/AndroidManifest.xml:8:5-79:19
+MERGED from [com.android.support:support-compat:28.0.0] /Users/prateekbhuwania/.gradle/caches/transforms-2/files-2.1/4adbab3fbdb25f610b0e72290764ec14/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/prateekbhuwania/.gradle/caches/transforms-2/files-2.1/4adbab3fbdb25f610b0e72290764ec14/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/prateekbhuwania/.gradle/caches/transforms-2/files-2.1/f38c56bd711080e89cd8cd52d97c76a9/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/prateekbhuwania/.gradle/caches/transforms-2/files-2.1/f38c56bd711080e89cd8cd52d97c76a9/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/prateekbhuwania/.gradle/caches/transforms-2/files-2.1/4adbab3fbdb25f610b0e72290764ec14/AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from /Users/prateekbhuwania/StudioProjects/Password_Locker/app/src/main/AndroidManifest.xml:11:9-41
+	android:icon
+		ADDED from /Users/prateekbhuwania/StudioProjects/Password_Locker/app/src/main/AndroidManifest.xml:10:9-45
+	android:allowBackup
+		ADDED from /Users/prateekbhuwania/StudioProjects/Password_Locker/app/src/main/AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from /Users/prateekbhuwania/StudioProjects/Password_Locker/app/src/main/AndroidManifest.xml:12:9-50
+activity#com.upa.passwordlocker.password_activity_choose
+ADDED from /Users/prateekbhuwania/StudioProjects/Password_Locker/app/src/main/AndroidManifest.xml:13:9-21:20
+	android:screenOrientation
+		ADDED from /Users/prateekbhuwania/StudioProjects/Password_Locker/app/src/main/AndroidManifest.xml:15:13-49
+	android:label
+		ADDED from /Users/prateekbhuwania/StudioProjects/Password_Locker/app/src/main/AndroidManifest.xml:16:13-45
+	android:name
+		ADDED from /Users/prateekbhuwania/StudioProjects/Password_Locker/app/src/main/AndroidManifest.xml:14:13-75
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/prateekbhuwania/StudioProjects/Password_Locker/app/src/main/AndroidManifest.xml:17:13-20:29
+action#android.intent.action.MAIN
+ADDED from /Users/prateekbhuwania/StudioProjects/Password_Locker/app/src/main/AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from /Users/prateekbhuwania/StudioProjects/Password_Locker/app/src/main/AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/prateekbhuwania/StudioProjects/Password_Locker/app/src/main/AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from /Users/prateekbhuwania/StudioProjects/Password_Locker/app/src/main/AndroidManifest.xml:19:27-74
+activity#com.upa.passwordlocker.password_activity
+ADDED from /Users/prateekbhuwania/StudioProjects/Password_Locker/app/src/main/AndroidManifest.xml:22:9-30:20
+	android:screenOrientation
+		ADDED from /Users/prateekbhuwania/StudioProjects/Password_Locker/app/src/main/AndroidManifest.xml:25:13-49
+	android:label
+		ADDED from /Users/prateekbhuwania/StudioProjects/Password_Locker/app/src/main/AndroidManifest.xml:24:13-45
+	android:name
+		ADDED from /Users/prateekbhuwania/StudioProjects/Password_Locker/app/src/main/AndroidManifest.xml:23:13-68
+intent-filter#action:name:com.upa.passwordlocker.PASSWORD_ACTIVITY+category:name:android.intent.category.DEFAULT
+ADDED from /Users/prateekbhuwania/StudioProjects/Password_Locker/app/src/main/AndroidManifest.xml:26:13-29:29
+action#com.upa.passwordlocker.PASSWORD_ACTIVITY
+ADDED from /Users/prateekbhuwania/StudioProjects/Password_Locker/app/src/main/AndroidManifest.xml:27:17-83
+	android:name
+		ADDED from /Users/prateekbhuwania/StudioProjects/Password_Locker/app/src/main/AndroidManifest.xml:27:25-80
+category#android.intent.category.DEFAULT
+ADDED from /Users/prateekbhuwania/StudioProjects/Password_Locker/app/src/main/AndroidManifest.xml:28:17-76
+	android:name
+		ADDED from /Users/prateekbhuwania/StudioProjects/Password_Locker/app/src/main/AndroidManifest.xml:28:27-73
+activity#com.upa.passwordlocker.MainActivity
+ADDED from /Users/prateekbhuwania/StudioProjects/Password_Locker/app/src/main/AndroidManifest.xml:33:9-40:20
+	android:label
+		ADDED from /Users/prateekbhuwania/StudioProjects/Password_Locker/app/src/main/AndroidManifest.xml:35:13-38
+	android:name
+		ADDED from /Users/prateekbhuwania/StudioProjects/Password_Locker/app/src/main/AndroidManifest.xml:34:13-63
+intent-filter#action:name:com.upa.passwordlocker.MAIN_ACTIVITY+category:name:android.intent.category.DEFAULT
+ADDED from /Users/prateekbhuwania/StudioProjects/Password_Locker/app/src/main/AndroidManifest.xml:36:13-39:29
+action#com.upa.passwordlocker.MAIN_ACTIVITY
+ADDED from /Users/prateekbhuwania/StudioProjects/Password_Locker/app/src/main/AndroidManifest.xml:37:17-79
+	android:name
+		ADDED from /Users/prateekbhuwania/StudioProjects/Password_Locker/app/src/main/AndroidManifest.xml:37:25-76
+activity#com.upa.passwordlocker.sqlView
+ADDED from /Users/prateekbhuwania/StudioProjects/Password_Locker/app/src/main/AndroidManifest.xml:43:9-50:20
+	android:label
+		ADDED from /Users/prateekbhuwania/StudioProjects/Password_Locker/app/src/main/AndroidManifest.xml:45:13-45
+	android:name
+		ADDED from /Users/prateekbhuwania/StudioProjects/Password_Locker/app/src/main/AndroidManifest.xml:44:13-58
+intent-filter#action:name:com.upa.passwordlocker.SQLVIEW+category:name:android.intent.category.DEFAULT
+ADDED from /Users/prateekbhuwania/StudioProjects/Password_Locker/app/src/main/AndroidManifest.xml:46:13-49:29
+action#com.upa.passwordlocker.SQLVIEW
+ADDED from /Users/prateekbhuwania/StudioProjects/Password_Locker/app/src/main/AndroidManifest.xml:47:17-73
+	android:name
+		ADDED from /Users/prateekbhuwania/StudioProjects/Password_Locker/app/src/main/AndroidManifest.xml:47:25-70
+activity#com.upa.passwordlocker.ChangePinActivity
+ADDED from /Users/prateekbhuwania/StudioProjects/Password_Locker/app/src/main/AndroidManifest.xml:52:9-59:20
+	android:label
+		ADDED from /Users/prateekbhuwania/StudioProjects/Password_Locker/app/src/main/AndroidManifest.xml:54:13-39
+	android:name
+		ADDED from /Users/prateekbhuwania/StudioProjects/Password_Locker/app/src/main/AndroidManifest.xml:53:13-68
+intent-filter#action:name:com.upa.passwordlocker.CHANGEPINACTIVITY+category:name:android.intent.category.DEFAULT
+ADDED from /Users/prateekbhuwania/StudioProjects/Password_Locker/app/src/main/AndroidManifest.xml:55:13-58:29
+action#com.upa.passwordlocker.CHANGEPINACTIVITY
+ADDED from /Users/prateekbhuwania/StudioProjects/Password_Locker/app/src/main/AndroidManifest.xml:56:17-83
+	android:name
+		ADDED from /Users/prateekbhuwania/StudioProjects/Password_Locker/app/src/main/AndroidManifest.xml:56:25-80
+activity#com.upa.passwordlocker.question_activity
+ADDED from /Users/prateekbhuwania/StudioProjects/Password_Locker/app/src/main/AndroidManifest.xml:62:9-70:20
+	android:screenOrientation
+		ADDED from /Users/prateekbhuwania/StudioProjects/Password_Locker/app/src/main/AndroidManifest.xml:65:13-49
+	android:label
+		ADDED from /Users/prateekbhuwania/StudioProjects/Password_Locker/app/src/main/AndroidManifest.xml:64:13-60
+	android:name
+		ADDED from /Users/prateekbhuwania/StudioProjects/Password_Locker/app/src/main/AndroidManifest.xml:63:13-68
+intent-filter#action:name:com.upa.passwordlocker.QUESTIONACTIVITY+category:name:android.intent.category.DEFAULT
+ADDED from /Users/prateekbhuwania/StudioProjects/Password_Locker/app/src/main/AndroidManifest.xml:66:13-69:29
+action#com.upa.passwordlocker.QUESTIONACTIVITY
+ADDED from /Users/prateekbhuwania/StudioProjects/Password_Locker/app/src/main/AndroidManifest.xml:67:17-82
+	android:name
+		ADDED from /Users/prateekbhuwania/StudioProjects/Password_Locker/app/src/main/AndroidManifest.xml:67:25-79
+activity#com.upa.passwordlocker.about
+ADDED from /Users/prateekbhuwania/StudioProjects/Password_Locker/app/src/main/AndroidManifest.xml:71:9-78:20
+	android:label
+		ADDED from /Users/prateekbhuwania/StudioProjects/Password_Locker/app/src/main/AndroidManifest.xml:73:13-57
+	android:name
+		ADDED from /Users/prateekbhuwania/StudioProjects/Password_Locker/app/src/main/AndroidManifest.xml:72:13-56
+intent-filter#action:name:com.upa.passwordlocker.ABOUT+category:name:android.intent.category.DEFAULT
+ADDED from /Users/prateekbhuwania/StudioProjects/Password_Locker/app/src/main/AndroidManifest.xml:74:13-77:29
+action#com.upa.passwordlocker.ABOUT
+ADDED from /Users/prateekbhuwania/StudioProjects/Password_Locker/app/src/main/AndroidManifest.xml:75:17-71
+	android:name
+		ADDED from /Users/prateekbhuwania/StudioProjects/Password_Locker/app/src/main/AndroidManifest.xml:75:25-68
+uses-sdk
+INJECTED from /Users/prateekbhuwania/StudioProjects/Password_Locker/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/prateekbhuwania/StudioProjects/Password_Locker/app/src/main/AndroidManifest.xml
+INJECTED from /Users/prateekbhuwania/StudioProjects/Password_Locker/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:support-v4:28.0.0] /Users/prateekbhuwania/.gradle/caches/transforms-2/files-2.1/7fad2584de1eef13dee8e54663ec7f0f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /Users/prateekbhuwania/.gradle/caches/transforms-2/files-2.1/7fad2584de1eef13dee8e54663ec7f0f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/prateekbhuwania/.gradle/caches/transforms-2/files-2.1/b6c17792add4f13d7f12458d78b164f8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/prateekbhuwania/.gradle/caches/transforms-2/files-2.1/b6c17792add4f13d7f12458d78b164f8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/prateekbhuwania/.gradle/caches/transforms-2/files-2.1/5a81dbd51c7687d2e2b4f3bf85e3e43b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/prateekbhuwania/.gradle/caches/transforms-2/files-2.1/5a81dbd51c7687d2e2b4f3bf85e3e43b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/prateekbhuwania/.gradle/caches/transforms-2/files-2.1/eaf050a4ed063467609ced0b28a705f7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/prateekbhuwania/.gradle/caches/transforms-2/files-2.1/eaf050a4ed063467609ced0b28a705f7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/prateekbhuwania/.gradle/caches/transforms-2/files-2.1/f12120006d5eaee044b268a3d5e6350e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/prateekbhuwania/.gradle/caches/transforms-2/files-2.1/f12120006d5eaee044b268a3d5e6350e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/prateekbhuwania/.gradle/caches/transforms-2/files-2.1/8d73e5f9abd32d3329d1671f3399d465/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/prateekbhuwania/.gradle/caches/transforms-2/files-2.1/8d73e5f9abd32d3329d1671f3399d465/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/prateekbhuwania/.gradle/caches/transforms-2/files-2.1/827e2473e09fe28da8ae2ae78227da6d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/prateekbhuwania/.gradle/caches/transforms-2/files-2.1/827e2473e09fe28da8ae2ae78227da6d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/prateekbhuwania/.gradle/caches/transforms-2/files-2.1/c5ad2e6018daa72707a2938f4bd703f4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/prateekbhuwania/.gradle/caches/transforms-2/files-2.1/c5ad2e6018daa72707a2938f4bd703f4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/prateekbhuwania/.gradle/caches/transforms-2/files-2.1/e6c4f08ef8b0ff349dc68cad4d9ca2a4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/prateekbhuwania/.gradle/caches/transforms-2/files-2.1/e6c4f08ef8b0ff349dc68cad4d9ca2a4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/prateekbhuwania/.gradle/caches/transforms-2/files-2.1/1972a7df79b80746a9b9df1689faeb95/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/prateekbhuwania/.gradle/caches/transforms-2/files-2.1/1972a7df79b80746a9b9df1689faeb95/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/prateekbhuwania/.gradle/caches/transforms-2/files-2.1/02c39c4066488d730d207597939fc474/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/prateekbhuwania/.gradle/caches/transforms-2/files-2.1/02c39c4066488d730d207597939fc474/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/prateekbhuwania/.gradle/caches/transforms-2/files-2.1/b11dca7b6baae95bed64a8d74c3f6ba3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/prateekbhuwania/.gradle/caches/transforms-2/files-2.1/b11dca7b6baae95bed64a8d74c3f6ba3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/prateekbhuwania/.gradle/caches/transforms-2/files-2.1/ab934c7e82086f8f1176bf714f8d53e7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/prateekbhuwania/.gradle/caches/transforms-2/files-2.1/ab934c7e82086f8f1176bf714f8d53e7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/prateekbhuwania/.gradle/caches/transforms-2/files-2.1/4adbab3fbdb25f610b0e72290764ec14/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/prateekbhuwania/.gradle/caches/transforms-2/files-2.1/4adbab3fbdb25f610b0e72290764ec14/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/prateekbhuwania/.gradle/caches/transforms-2/files-2.1/f38c56bd711080e89cd8cd52d97c76a9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/prateekbhuwania/.gradle/caches/transforms-2/files-2.1/f38c56bd711080e89cd8cd52d97c76a9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/prateekbhuwania/.gradle/caches/transforms-2/files-2.1/4b3e582c40708da422695ba001f132bb/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/prateekbhuwania/.gradle/caches/transforms-2/files-2.1/4b3e582c40708da422695ba001f132bb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/prateekbhuwania/.gradle/caches/transforms-2/files-2.1/6969c3f132285373a985bef784953ceb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/prateekbhuwania/.gradle/caches/transforms-2/files-2.1/6969c3f132285373a985bef784953ceb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/prateekbhuwania/.gradle/caches/transforms-2/files-2.1/4fc60f5665cd6f4d327af65779d342c2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/prateekbhuwania/.gradle/caches/transforms-2/files-2.1/4fc60f5665cd6f4d327af65779d342c2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/prateekbhuwania/.gradle/caches/transforms-2/files-2.1/c8e2a726b068dda9480b0467110972cf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/prateekbhuwania/.gradle/caches/transforms-2/files-2.1/c8e2a726b068dda9480b0467110972cf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/prateekbhuwania/.gradle/caches/transforms-2/files-2.1/b0ff2b5871abfde7df0ae0eaffb6fe8b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/prateekbhuwania/.gradle/caches/transforms-2/files-2.1/b0ff2b5871abfde7df0ae0eaffb6fe8b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/prateekbhuwania/.gradle/caches/transforms-2/files-2.1/0a5e418e6a9be948b82f4bbdecba4581/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/prateekbhuwania/.gradle/caches/transforms-2/files-2.1/0a5e418e6a9be948b82f4bbdecba4581/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/prateekbhuwania/.gradle/caches/transforms-2/files-2.1/5aa8702c5b9e5c1c12da15ebc1b172ca/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/prateekbhuwania/.gradle/caches/transforms-2/files-2.1/5aa8702c5b9e5c1c12da15ebc1b172ca/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/prateekbhuwania/.gradle/caches/transforms-2/files-2.1/6d3210cafcacbd672dee1227577c438e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/prateekbhuwania/.gradle/caches/transforms-2/files-2.1/6d3210cafcacbd672dee1227577c438e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/prateekbhuwania/.gradle/caches/transforms-2/files-2.1/d06d51695891f801737bdb2b6bfa16f2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/prateekbhuwania/.gradle/caches/transforms-2/files-2.1/d06d51695891f801737bdb2b6bfa16f2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/prateekbhuwania/.gradle/caches/transforms-2/files-2.1/4d40270780b40282ce7a0838b316891c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/prateekbhuwania/.gradle/caches/transforms-2/files-2.1/4d40270780b40282ce7a0838b316891c/AndroidManifest.xml:20:5-44
+INJECTED from /Users/prateekbhuwania/StudioProjects/Password_Locker/app/src/main/AndroidManifest.xml
+INJECTED from /Users/prateekbhuwania/StudioProjects/Password_Locker/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/prateekbhuwania/StudioProjects/Password_Locker/app/src/main/AndroidManifest.xml
+		ADDED from /Users/prateekbhuwania/StudioProjects/Password_Locker/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/prateekbhuwania/StudioProjects/Password_Locker/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/prateekbhuwania/StudioProjects/Password_Locker/app/src/main/AndroidManifest.xml
+		ADDED from /Users/prateekbhuwania/StudioProjects/Password_Locker/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/prateekbhuwania/StudioProjects/Password_Locker/app/src/main/AndroidManifest.xml
