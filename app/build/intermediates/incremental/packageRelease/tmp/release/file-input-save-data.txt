@@ -1,0 +1,27 @@
+#Internal package file, do not edit.
+#Thu Jun 06 23:06:58 IST 2019
+2.base=/Users/prateekbhuwania/StudioProjects/Password_Locker/app/build/intermediates/merged_assets/release/out
+5.set=DEX
+0.path=fonts/yoyo.otf
+2.baseType=DIRECTORY
+3.base=/Users/prateekbhuwania/StudioProjects/Password_Locker/app/build/intermediates/merged_assets/release/out
+2.set=ASSET
+1.path=fonts/jlsspace.otf
+4.base=/Users/prateekbhuwania/StudioProjects/Password_Locker/app/build/intermediates/merged_assets/release/out
+count=6
+5.baseType=DIRECTORY
+2.path=fonts/babylove.ttf
+5.base=/Users/prateekbhuwania/StudioProjects/Password_Locker/app/build/intermediates/dex/release/mergeDexRelease/out
+4.set=ASSET
+3.path=fonts/freedom.otf
+3.baseType=DIRECTORY
+1.set=ASSET
+4.path=fonts/kbzipadeedoodah.ttf
+1.baseType=DIRECTORY
+5.path=classes.dex
+0.base=/Users/prateekbhuwania/StudioProjects/Password_Locker/app/build/intermediates/merged_assets/release/out
+0.baseType=DIRECTORY
+3.set=ASSET
+1.base=/Users/prateekbhuwania/StudioProjects/Password_Locker/app/build/intermediates/merged_assets/release/out
+4.baseType=DIRECTORY
+0.set=ASSET

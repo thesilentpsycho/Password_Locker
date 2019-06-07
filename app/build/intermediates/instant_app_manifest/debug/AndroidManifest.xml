@@ -16,6 +16,7 @@
         android:debuggable="true"
         android:icon="@drawable/ic_launcher"
         android:label="@string/app_name"
+        android:testOnly="true"
         android:theme="@style/android:Theme.Holo" >
         <activity
             android:name="com.upa.passwordlocker.password_activity_choose"
@@ -87,6 +88,11 @@
                 <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
         </activity>
+
+        <provider
+            android:name="com.android.tools.ir.server.InstantRunContentProvider"
+            android:authorities="com.upa.passwordlocker.com.android.tools.ir.server.InstantRunContentProvider"
+            android:multiprocess="true" />
     </application>
 
 </manifest>
