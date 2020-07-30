@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/prateekbhuwania/StudioProjects/Password_Locker/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-large-v4/values-large-v4.xml",
+            "map": [
+                {
+                    "source": "/Users/prateekbhuwania/StudioProjects/Password_Locker/app/src/main/res/values-large/styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "17",
+                        "endLines": "7",
+                        "endColumns": "12",
+                        "endOffsets": "288"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "7",
+                        "endColumns": "12",
+                        "endOffsets": "326"
+                    }
+                }
+            ]
+        }
+    ]
+}

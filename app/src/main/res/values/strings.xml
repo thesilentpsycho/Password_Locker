@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Password Locker</string>
+    <string name="action_settings">Settings</string>
+    <string name="editText1hint">Username</string>
+    <string name="editText2hint">Password</string>
+    <string name="editText3hint">Website</string>
+    <string name="button1text">Update</string>
+    <string name="button2text">View</string>
+    <string name="search_title">Search</string>
+    <string name="search_hint">Search Passwords</string>
+    <string name="title_activity_searchable">SearchableActivity</string>
+    <string name="title_activity_edit">Edit</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="mywebsites">My Websites</string>
+    <string name="title_activity_change_pin">ChangePinActivity</string>
+    <string name="title_question_activity">Choose_Security_Question</string>
+    <string name="title_about_activity">About The App</string>
+
+</resources>

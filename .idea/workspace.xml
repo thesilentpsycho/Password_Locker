@@ -1,0 +1,569 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9e92b1f0-2084-4598-96d5-6a435fc739bd" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/app/libs/android-libcore-4.3_r2.robolectric-0-real.jar!/dalvik/annotation/AndroidOnly.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/app/libs/android-libcore-4.3_r2.robolectric-0-real.jar!/dalvik/annotation/TestTargetNew.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>SHA1PRNG_SecureRandomImpl</find>
+      <find>SecureRandomSpi</find>
+      <find>secureRandomSpi</find>
+      <find>setSe</find>
+      <find>.decrypt</find>
+      <find>encry</find>
+    </findStrings>
+  </component>
+  <component name="GenerateSignedApkSettings">
+    <option name="EXPORT_PRIVATE_KEY" value="false" />
+    <option name="KEY_STORE_PATH" value="$USER_HOME$/Downloads/upa" />
+    <option name="KEY_ALIAS" value="upa" />
+    <option name="REMEMBER_PASSWORDS" value="true" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/src/main/java/com/upa/passwordlocker/crypto/SHA1PRNG_SecureRandomImpl.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/upa/passwordlocker/AESHelper.java" />
+        <option value="$PROJECT_DIR$/app/build.gradle" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="828" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Password_Locker" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Password_Locker" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="Password_Locker" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Password_Locker" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="Password_Locker" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Password_Locker" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="libs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Password_Locker" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Password_Locker" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="libs" type="462c0819:PsiDirectoryNode" />
+              <item name="android-libcore-4.3_r2.robolectric-0-real.jar" type="ab9368bb:PsiFileNode" />
+            </path>
+            <path>
+              <item name="Password_Locker" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Password_Locker" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+            </path>
+            <path>
+              <item name="Password_Locker" type="1abcf292:AndroidViewProjectNode" />
+              <item name="Gradle Scripts" type="ae0cef3a:AndroidBuildScriptsGroupNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ExportApk.ApkPath" value="$PROJECT_DIR$/app" />
+    <property name="ExportApk.BuildVariants" value="release" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="device.picker.selection" value="Pixel_2_API_16" />
+    <property name="editor.config.ad.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/libs" />
+      <recent name="$PROJECT_DIR$/app/src/main/java/com/upa/passwordlocker/crypto" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9e92b1f0-2084-4598-96d5-6a435fc739bd" name="Default Changelist" comment="" />
+      <created>1558867674626</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1558867674626</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="827" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" visible="true" weight="0.3297568" />
+      <window_info id="Structure" side_tool="true" />
+      <window_info id="Build Variants" side_tool="true" />
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="Resources Explorer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Run" />
+      <window_info anchor="bottom" id="Logcat" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="TODO" />
+      <window_info anchor="bottom" id="Android Profiler" />
+      <window_info anchor="bottom" id="Find" weight="0.32880434" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Build" visible="true" weight="0.3292517" />
+      <window_info anchor="bottom" id="Debug" weight="0.32880434" />
+      <window_info anchor="right" id="Device File Explorer" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Gradle" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Palette&#9;" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/import-summary.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/libraries/Gradle__org_robolectric_android_libcore_4_3_r2_robolectric_0_jar.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradlew">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <provider editor-type-id="android-manifest" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-886" />
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/jre/jdk/Contents/Home/jre/lib/rt.jar!/java/security/SecureRandom.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.robolectric/android-libcore/4.3_r2.robolectric-0/2e3987970fa14825d2d40b0a18d2241da3a80eee/android-libcore-4.3_r2.robolectric-0.jar!/META-INF/MANIFEST.MF">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/app/libs/libcore-dex-7.1.0_r7.jar!/com/android/dex/Dex.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1024">
+          <caret line="36" column="19" selection-start-line="36" selection-start-column="19" selection-end-line="36" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/app/libs/libcore-dex-7.1.0_r7.jar!/com/android/dex/util/ByteArrayByteInput.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/upa/passwordlocker/crypto/BlockGuard.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Android/sdk/sources/android-28/java/security/SecureRandom.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="589">
+          <caret line="301" selection-start-line="301" selection-end-line="301" />
+          <folding>
+            <element signature="docComment;class#SecureRandom#0" />
+            <element signature="docComment;field#provider#0;class#SecureRandom#0" />
+            <element signature="docComment;field#secureRandomSpi#0;class#SecureRandom#0" />
+            <element signature="docComment;method#SecureRandom#0;class#SecureRandom#0" />
+            <element signature="method#SecureRandom#0;class#SecureRandom#0" />
+            <element signature="docComment;method#SecureRandom#1;class#SecureRandom#0" />
+            <element signature="method#SecureRandom#1;class#SecureRandom#0" />
+            <element signature="method#getDefaultPRNG#0;class#SecureRandom#0" />
+            <element signature="e#7864#8046#1" />
+            <element signature="e#8052#8578#1" />
+            <element signature="e#8070#8388#0" />
+            <element signature="e#8293#8374#1" />
+            <element signature="e#8427#8568#0" />
+            <element signature="e#8587#8652#0" />
+            <element signature="e#8983#9029#1" />
+            <element signature="docComment;method#SecureRandom#2;class#SecureRandom#0" />
+            <element signature="method#SecureRandom#2;class#SecureRandom#0" />
+            <element signature="method#SecureRandom#3;class#SecureRandom#0" />
+            <element signature="docComment;method#getInstance#0;class#SecureRandom#0" />
+            <element signature="method#getInstance#0;class#SecureRandom#0" />
+            <element signature="docComment;method#getInstance#1;class#SecureRandom#0" />
+            <element signature="docComment;method#getInstance#2;class#SecureRandom#0" />
+            <element signature="method#getInstance#2;class#SecureRandom#0" />
+            <element signature="docComment;method#getSecureRandomSpi#0;class#SecureRandom#0" />
+            <element signature="docComment;method#getProvider#0;class#SecureRandom#0" />
+            <element signature="docComment;method#getAlgorithm#0;class#SecureRandom#0" />
+            <element signature="docComment;method#setSeed#0;class#SecureRandom#0" />
+            <element signature="docComment;method#setSeed#1;class#SecureRandom#0" />
+            <element signature="method#setSeed#1;class#SecureRandom#0" />
+            <element signature="e#17881#17958#1" />
+            <element signature="docComment;method#nextBytes#0;class#SecureRandom#0" />
+            <element signature="docComment;method#next#0;class#SecureRandom#0" />
+            <element signature="method#next#0;class#SecureRandom#0" />
+            <element signature="e#19542#19601#1" />
+            <element signature="docComment;method#getSeed#0;class#SecureRandom#0" />
+            <element signature="method#getSeed#0;class#SecureRandom#0" />
+            <element signature="e#20402#20461#1" />
+            <element signature="docComment;method#generateSeed#0;class#SecureRandom#0" />
+            <element signature="method#generateSeed#0;class#SecureRandom#0" />
+            <element signature="docComment;method#longToByteArray#0;class#SecureRandom#0" />
+            <element signature="method#longToByteArray#0;class#SecureRandom#0" />
+            <element signature="e#21205#21271#1" />
+            <element signature="docComment;method#getPrngAlgorithm#0;class#SecureRandom#0" />
+            <element signature="method#getPrngAlgorithm#0;class#SecureRandom#0" />
+            <element signature="e#21726#21920#1" />
+            <element signature="e#21774#21910#1" />
+            <element signature="e#21832#21896#1" />
+            <element signature="class#StrongPatternHolder#0;class#SecureRandom#0" />
+            <element signature="docComment;method#getInstanceStrong#0;class#SecureRandom#0" />
+            <element signature="method#getInstanceStrong#0;class#SecureRandom#0" />
+            <element signature="class#23734:23965" />
+            <element signature="method#run#0;class#23734:23965" />
+            <element signature="e#24029#24167#1" />
+            <element signature="e#24240#24937#1" />
+            <element signature="e#24366#24872#1" />
+            <element signature="e#24473#24713#0" />
+            <element signature="e#24513#24598#1" />
+            <element signature="e#24604#24695#1" />
+            <element signature="e#24878#24927#1" />
+            <element signature="docComment;field#state#0;class#SecureRandom#0" />
+            <element signature="docComment;field#digest#0;class#SecureRandom#0" />
+            <element signature="docComment;field#randomBytes#0;class#SecureRandom#0" />
+            <element signature="docComment;field#randomBytesUsed#0;class#SecureRandom#0" />
+            <element signature="docComment;field#counter#0;class#SecureRandom#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Android/sdk/sources/android-28/java/security/SecureRandomSpi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="39" column="22" selection-start-line="39" selection-start-column="22" selection-end-line="39" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Android/sdk/sources/android-28/java/security/Provider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-735">
+          <caret line="92" column="22" selection-start-line="92" selection-start-column="22" selection-end-line="92" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/upa/passwordlocker/crypto/SHA1PRNG_SecureRandomImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="132" column="11" selection-start-line="132" selection-start-column="11" selection-end-line="132" selection-end-column="11" />
+          <folding>
+            <element signature="e#0#21412#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/upa/passwordlocker/crypto/CryptoProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="18" column="3" lean-forward="true" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/upa/passwordlocker/sqlView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3945">
+          <caret line="290" column="28" lean-forward="true" selection-start-line="290" selection-start-column="28" selection-end-line="291" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/upa/passwordlocker/fileWork.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/upa/passwordlocker/MyExpandableListAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="53">
+          <caret line="17" column="42" lean-forward="true" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/upa/passwordlocker/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2610">
+          <caret line="191" column="13" selection-start-line="191" selection-start-column="13" selection-end-line="191" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/upa/passwordlocker/ChangePinActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1956">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/upa/passwordlocker/sqlWork.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/upa/passwordlocker/AESHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/xml/mytextbox_pressed.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/xml/mytextbox1.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/xml/mytextbox.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/xml/button_selector.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/xml/button_pressed.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/xml/mytextview.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/xml/normal_hara_button_selector.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="13" lean-forward="true" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/xml/button_normal.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="8" lean-forward="true" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/upa/passwordlocker/about.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/upa/passwordlocker/encryptionWork.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="8" column="36" lean-forward="true" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/menu/change_pin.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+      <provider editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/app/libs/android-libcore-4.3_r2.robolectric-0-real.jar!/dalvik/annotation/AndroidOnly.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/app/libs/android-libcore-4.3_r2.robolectric-0-real.jar!/dalvik/annotation/TestTargetNew.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

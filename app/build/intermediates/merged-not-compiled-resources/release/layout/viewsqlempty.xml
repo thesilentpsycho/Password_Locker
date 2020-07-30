@@ -1,0 +1,16 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/background1" >
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:gravity="center"
+        android:text="No Entries"
+        android:textColor="#ffffff"
+        android:textSize="40sp"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+</LinearLayout>
