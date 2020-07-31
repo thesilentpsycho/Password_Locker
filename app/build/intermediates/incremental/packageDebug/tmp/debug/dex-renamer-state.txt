@@ -1,4 +1,0 @@
-#Sun May 26 21:53:58 IST 2019
-base.0=/Users/prateekbhuwania/StudioProjects/Password_Locker/app/build/intermediates/dex/debug/mergeDexDebug/out
-path.0=classes.dex
-renamed.0=classes.dex
